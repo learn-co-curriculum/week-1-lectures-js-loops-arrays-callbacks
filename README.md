@@ -1,13 +1,5 @@
-# Study Group - HTML / CSS + Lil JS
+# JS Loops Arrays and Callbacks - ABP Nov 11th 2017
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GOeLuLrQjpM?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=GOeLuLrQjpM">Study Group - HTML / CSS + Lil JS</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9vLOWx6dAak?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=9vLOWx6dAak">JS Loops, Arrays, Callbacks</a></p>
 
-This was a live study group recorded November 7th 2017.
-
-## Resources
-
-* [Object Oriented CSS](http://blog.kate-travers.com/csmess-refactoring-css-with-object-oriented-design/)
-* [Semantic HTML 5 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Shortcut Foo](https://www.shortcutfoo.com/)
-* [BaseCS](https://medium.com/basecs)
-* [Tom Dale How to Center a Div](https://twitter.com/tomdale/status/373573132939837440)
+This was a live study group recorded November 11th 2017.
